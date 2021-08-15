@@ -1,1 +1,2 @@
-# Cashie-POS
+# Cashie-main
+Training Project
